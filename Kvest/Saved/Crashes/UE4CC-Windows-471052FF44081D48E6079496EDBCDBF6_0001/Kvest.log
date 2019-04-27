@@ -1,0 +1,1489 @@
+﻿Log file open, 04/27/19 12:36:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Kvest
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.139155
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.051s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.27-09.36.38:861][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.27-09.36.38:861][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/Хакатон/Kvest/Kvest/Saved/Config/Windows/Engine.ini]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/Хакатон/Kvest/Kvest/Saved/Config/Windows/Engine.ini]
+[2019.04.27-09.36.38:862][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Хакатон/Kvest/Kvest/Saved/Config/Windows/Engine.ini]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/Хакатон/Kvest/Kvest/Saved/Config/Windows/Engine.ini]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.27-09.36.38:862][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/Хакатон/Kvest/Kvest/Saved/Config/Windows/Engine.ini]
+[2019.04.27-09.36.38:862][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/Хакатон/Kvest/Kvest/Saved/Config/Windows/Engine.ini]
+[2019.04.27-09.36.38:864][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Хакатон/Kvest/Kvest/Saved/Config/Windows/Scalability.ini]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Хакатон/Kvest/Kvest/Saved/Config/Windows/Scalability.ini]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Хакатон/Kvest/Kvest/Saved/Config/Windows/Scalability.ini]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Хакатон/Kvest/Kvest/Saved/Config/Windows/Scalability.ini]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Хакатон/Kvest/Kvest/Saved/Config/Windows/Scalability.ini]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Хакатон/Kvest/Kvest/Saved/Config/Windows/Scalability.ini]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Хакатон/Kvest/Kvest/Saved/Config/Windows/Scalability.ini]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.27-09.36.38:864][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.27-09.36.38:864][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.27-09.36.38:864][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.27-09.36.38:878][  0]LogHAL: Display: Platform has ~ 8 GB [8494751744 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.27-09.36.38:878][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.27-09.36.38:878][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Хакатон/Kvest/Kvest/Saved/Config/Windows/Scalability.ini]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Хакатон/Kvest/Kvest/Saved/Config/Windows/Scalability.ini]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Хакатон/Kvest/Kvest/Saved/Config/Windows/Scalability.ini]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Хакатон/Kvest/Kvest/Saved/Config/Windows/Scalability.ini]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Хакатон/Kvest/Kvest/Saved/Config/Windows/Scalability.ini]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.27-09.36.38:878][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Хакатон/Kvest/Kvest/Saved/Config/Windows/Scalability.ini]
+[2019.04.27-09.36.38:879][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.27-09.36.38:879][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.27-09.36.38:879][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.27-09.36.38:879][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.27-09.36.38:879][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.27-09.36.38:879][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.27-09.36.38:879][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.27-09.36.38:879][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.27-09.36.38:879][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.27-09.36.38:879][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.27-09.36.38:879][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.27-09.36.38:879][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.27-09.36.38:879][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.27-09.36.38:879][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Хакатон/Kvest/Kvest/Saved/Config/Windows/Scalability.ini]
+[2019.04.27-09.36.38:879][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.27-09.36.38:879][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.27-09.36.38:879][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.27-09.36.38:879][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.27-09.36.38:879][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/Хакатон/Kvest/Kvest/Saved/Config/Windows/Engine.ini]
+[2019.04.27-09.36.38:879][  0]LogInit: Computer: LENOVO
+[2019.04.27-09.36.38:879][  0]LogInit: User: 1
+[2019.04.27-09.36.38:879][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.04.27-09.36.38:879][  0]LogInit: High frequency timer resolution =2.156253 MHz
+[2019.04.27-09.36.38:879][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.04.27-09.36.38:879][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.27-09.36.38:879][  0]LogMemory: Process Physical Memory: 102.17 MB used, 102.17 MB peak
+[2019.04.27-09.36.38:879][  0]LogMemory: Process Virtual Memory: 84.14 MB used, 84.14 MB peak
+[2019.04.27-09.36.38:879][  0]LogMemory: Physical Memory: 3531.93 MB used,  4569.30 MB free, 8101.23 MB total
+[2019.04.27-09.36.38:879][  0]LogMemory: Virtual Memory: 494.33 MB used,  134217232.00 MB free, 134217728.00 MB total
+[2019.04.27-09.36.38:893][  0]LogInit: Using OS detected language (ru-RU).
+[2019.04.27-09.36.38:893][  0]LogInit: Using OS detected locale (ru-BY).
+[2019.04.27-09.36.38:894][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2019.04.27-09.36.38:895][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2019.04.27-09.36.38:895][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.27-09.36.38:912][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.27-09.36.38:912][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.27-09.36.39:087][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.27-09.36.39:087][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.27-09.36.39:352][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX150' (Feature Level 11_0)
+[2019.04.27-09.36.39:352][  0]LogD3D11RHI:       1983/0/4050 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.27-09.36.39:363][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2019.04.27-09.36.39:363][  0]LogD3D11RHI:       128/0/4050 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.27-09.36.39:364][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.27-09.36.39:364][  0]LogD3D11RHI:       0/0/4050 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.27-09.36.39:364][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.27-09.36.39:368][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.27-09.36.39:368][  0]LogD3D11RHI:     GPU DeviceId: 0x1d10 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.27-09.36.39:368][  0]LogWindows: EnumDisplayDevices:
+[2019.04.27-09.36.39:369][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2019.04.27-09.36.39:369][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.04.27-09.36.39:369][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.04.27-09.36.39:369][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.04.27-09.36.39:369][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX150
+[2019.04.27-09.36.39:369][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.04.27-09.36.39:369][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.04.27-09.36.39:369][  0]LogRHI: Texture pool is 1388 MB (70% of 1983 MB)
+[2019.04.27-09.36.39:405][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.27-09.36.39:416][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.04.27-09.36.39:684][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.27-09.36.39:695][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.27-09.36.39:707][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.27-09.36.39:718][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.27-09.36.39:730][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.27-09.36.39:741][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.27-09.36.39:752][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.27-09.36.39:764][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.27-09.36.39:769][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.27-09.36.39:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.27-09.36.39:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.27-09.36.39:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.27-09.36.39:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.27-09.36.39:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.27-09.36.39:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.27-09.36.39:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.27-09.36.39:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.27-09.36.39:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.27-09.36.39:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.27-09.36.39:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.27-09.36.39:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.27-09.36.39:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.27-09.36.39:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.27-09.36.39:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.27-09.36.39:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.27-09.36.39:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.27-09.36.39:833][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.27-09.36.39:834][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.27-09.36.39:889][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.27-09.36.39:889][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.27-09.36.39:909][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.27-09.36.39:909][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.27-09.36.39:918][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.27-09.36.39:929][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.27-09.36.39:939][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.27-09.36.39:949][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.27-09.36.39:987][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.27-09.36.39:987][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.27-09.36.39:987][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.27-09.36.40:031][  0]LogShaderCompilers: Guid format shader working directory is 22 characters bigger than the processId version (G:/Хакатон/Kvest/Kvest/Intermediate/Shaders/WorkingDirectory/412/).
+[2019.04.27-09.36.40:031][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/_1/AppData/Local/Temp/UnrealShaderWorkingDir/5685622948AC626027B123AA3EEDE3B3/'.
+[2019.04.27-09.36.40:032][  0]LogXGEController: Cleaning working directory: C:/Users/_1/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.27-09.36.40:033][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.27-09.36.40:033][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.27-09.36.40:033][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.27-09.36.40:533][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.27-09.36.40:590][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/_1/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.27-09.36.40:590][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/_1/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.27-09.36.40:590][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/Хакатон/Kvest/Kvest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.27-09.36.40:590][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.27-09.36.40:590][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/Хакатон/Kvest/Kvest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.27-09.36.40:590][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.27-09.36.40:603][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.27-09.36.40:603][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.27-09.36.40:603][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.27-09.36.40:615][  0]LogDerivedDataCache: Using Local data cache path C:/Users/_1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.27-09.36.40:615][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.27-09.36.40:615][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.27-09.36.40:648][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.27-09.36.40:650][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.27-09.36.40:651][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.27-09.36.40:729][  0]LogAssetRegistry: FAssetRegistry took 0.0319 seconds to start up
+[2019.04.27-09.36.41:038][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.27-09.36.41:183][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.27-09.36.41:186][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.27-09.36.41:186][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.27-09.36.41:186][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.27-09.36.41:186][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.27-09.36.41:203][  0]LogNetVersion: Kvest 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3209362414)
+[2019.04.27-09.36.41:708][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.104774 seconds
+[2019.04.27-09.36.41:714][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.27-09.36.41:714][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.04.27-09.36.41:714][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.27-09.36.42:517][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.27-09.36.42:531][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.27-09.36.43:157][  0]SourceControl: Source control is disabled
+[2019.04.27-09.36.43:157][  0]SourceControl: Source control is disabled
+[2019.04.27-09.36.43:158][  0]SourceControl: Source control is disabled
+[2019.04.27-09.36.43:159][  0]SourceControl: Source control is disabled
+[2019.04.27-09.36.43:312][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.27-09.36.43:365][  0]LogOcInput: OculusInput pre-init called
+[2019.04.27-09.36.43:503][  0]LogEngine: Initializing Engine...
+[2019.04.27-09.36.43:504][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.27-09.36.43:505][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.27-09.36.43:505][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.27-09.36.43:505][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.27-09.36.43:505][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.27-09.36.43:749][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.27-09.36.43:766][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.27-09.36.43:776][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.27-09.36.43:834][  0]LogInit: FAudioDevice initialized.
+[2019.04.27-09.36.43:835][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.27-09.36.43:921][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/_1/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.27-09.36.43:929][  0]LogInit: Texture streaming: Enabled
+[2019.04.27-09.36.43:947][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.27-09.36.43:966][  0]LogInit: Transaction tracking system initialized
+[2019.04.27-09.36.43:988][  0]BlueprintLog: New page: Editor Load
+[2019.04.27-09.36.44:064][  0]LocalizationService: Localization service is disabled
+[2019.04.27-09.36.44:771][  0]LogFileCache: Scanning file cache for directory 'G:/Хакатон/Kvest/Kvest/Content/' took 0.02s
+[2019.04.27-09.36.44:771][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.27-09.36.44:771][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.27-09.36.44:771][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.27-09.36.44:771][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.27-09.36.44:771][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.27-09.36.44:771][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.27-09.36.44:771][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.27-09.36.44:890][  0]SourceControl: Source control is disabled
+[2019.04.27-09.36.44:890][  0]Cmd: MAP LOAD FILE="G:/Хакатон/Kvest/Kvest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.27-09.36.44:894][  0]LightingResults: New page: Lighting Build
+[2019.04.27-09.36.44:896][  0]MapCheck: New page: Map Check
+[2019.04.27-09.36.44:896][  0]LightingResults: New page: Lighting Build
+[2019.04.27-09.36.45:244][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2019.04.27-09.36.45:244][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading G:/Хакатон/Kvest/Kvest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2019.04.27-09.36.45:244][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2019.04.27-09.36.45:294][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2019.04.27-09.36.45:294][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading G:/Хакатон/Kvest/Kvest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2019.04.27-09.36.45:294][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2019.04.27-09.36.45:296][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2019.04.27-09.36.45:296][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2019.04.27-09.36.45:296][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2019.04.27-09.36.45:296][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2019.04.27-09.36.45:347][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2019.04.27-09.36.45:347][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2019.04.27-09.36.45:347][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2019.04.27-09.36.45:347][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2019.04.27-09.36.45:508][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.27-09.36.45:531][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.27-09.36.45:553][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.27-09.36.45:553][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,098ms to complete.
+[2019.04.27-09.36.45:554][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.664
+[2019.04.27-09.36.45:617][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.27-09.36.45:707][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.27-09.36.45:717][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.27-09.36.45:725][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.27-09.36.45:731][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.27-09.36.45:746][  0]LogCollectionManager: Loaded 0 collections in 0.001529 seconds
+[2019.04.27-09.36.45:810][  0]LogFileCache: Scanning file cache for directory 'G:/Хакатон/Kvest/Kvest/Saved/Collections/' took 0.01s
+[2019.04.27-09.36.45:810][  0]LogFileCache: Scanning file cache for directory 'G:/Хакатон/Kvest/Kvest/Content/Developers/1/Collections/' took 0.01s
+[2019.04.27-09.36.45:810][  0]LogFileCache: Scanning file cache for directory 'G:/Хакатон/Kvest/Kvest/Content/Collections/' took 0.01s
+[2019.04.27-09.36.45:810][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.27-09.36.45:824][  0]LogContentBrowser: Native class hierarchy populated in 0.0125 seconds. Added 2651 classes and 620 folders.
+[2019.04.27-09.36.45:839][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.27-09.36.45:862][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.45:900][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.45:933][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.45:953][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.45:986][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.46:001][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.46:020][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.46:040][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.46:047][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.46:066][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.46:095][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.46:112][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.46:136][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.46:166][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.46:182][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.46:191][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.46:246][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.46:262][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.46:288][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.46:296][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.46:363][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.46:389][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.46:412][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.46:428][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.46:445][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.46:452][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.27-09.36.46:659][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.27-09.36.46:676][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.04.27-09.36.46:747][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.27-09.36.46:749][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.27-09.36.46:764][  0]LogSlate: Took 0.006807 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.27-09.36.46:897][  0]LogRenderer: Reallocating scene render targets to support 868x380 Format 10 NumSamples 1 (Frame:1).
+[2019.04.27-09.36.47:148][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.04.27-09.36.47:148][  0]LogLoad: (Engine Initialization) Total time: 9.56 seconds
+[2019.04.27-09.36.47:148][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.27-09.36.47:219][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.27-09.36.47:220][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-09.36.47:294][  0]LogRenderer: Reallocating scene render targets to support 868x392 Format 10 NumSamples 1 (Frame:3).
+[2019.04.27-09.36.47:295][  0]LogSlate: Took 0.007289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.27-09.36.50:899][253]LogAssetRegistry: Asset discovery search completed in 10.1921 seconds
+[2019.04.27-09.36.50:901][253]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.27-09.36.50:901][253]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000075 seconds (updated 0 objects)
+[2019.04.27-09.36.56:987][707]LogSlate: Window 'Message Log' being destroyed
+[2019.04.27-09.36.56:991][707]LogSlate: Window 'Message Log' being destroyed
+[2019.04.27-09.39.54:868][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-09.40.33:112][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-09.40.34:543][865]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.27-09.40.36:128][865]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.04.27-09.40.45:605][427]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Dima/BP_Banckomat.BP_Banckomat
+[2019.04.27-09.40.46:283][427]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 117 classes and 0 folders.
+[2019.04.27-09.40.49:424][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-09.40.49:640][532]LogRenderer: Reallocating scene render targets to support 956x524 Format 10 NumSamples 1 (Frame:104).
+[2019.04.27-09.40.49:774][540]LogSlate: Window 'BP_Banckomat*' being destroyed
+[2019.04.27-09.40.49:789][541]LogRenderer: Reallocating scene render targets to support 1084x524 Format 10 NumSamples 1 (Frame:16127).
+[2019.04.27-09.40.50:635][588]LogSlate: Took 0.018086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.27-09.40.51:057][613]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-09.41.06:120][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-09.41.10:798][778]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.04.27-09.43.14:936][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-09.43.30:433][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.04.27-09.43.35:678][247]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2019.04.27-09.43.40:530][527]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-09.43.40:803][543]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-09.43.42:162][624]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-09.43.43:385][697]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-09.43.43:528][705]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-09.43.49:134][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-09.43.49:992][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-09.43.59:019][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-09.44.11:748][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-09.44.14:235][494]Cmd: TRANSACTION UNDO
+[2019.04.27-09.44.14:235][494]LogEditorTransaction: Undo Modifier [Weld]
+[2019.04.27-09.44.37:089][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.04.27-09.44.39:778][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-09.44.42:991][142]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.04.27-09.44.57:379][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-09.45.02:907][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.04.27-09.45.15:717][982]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-09.45.28:716][728]Cmd: ACTOR SELECT ALL
+[2019.04.27-09.45.29:751][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2019.04.27-09.45.31:852][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-09.45.42:421][499]Cmd: EDIT COPY
+[2019.04.27-09.45.42:660][513]Cmd: EDIT PASTE
+[2019.04.27-09.46.50:353][452]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-09.46.51:081][452]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/ThirdPersonExampleMap_Auto1088C26DE46551FC78E61B987567410BE.tmp' to 'G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.04.27-09.46.51:090][452]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.699
+[2019.04.27-09.46.51:090][452]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.699
+[2019.04.27-09.46.51:092][452]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dima/BP_Banckomat] ([1] browsable assets)...
+[2019.04.27-09.46.51:092][452]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dima/BP_Banckomat]
+[2019.04.27-09.46.51:092][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dima/BP_Banckomat" FILE="G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/Dima/BP_Banckomat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.04.27-09.46.51:105][452]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/BP_Banckomat_Auto1C5D162504BCFB3118E70E592EB868194.tmp' to 'G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/Dima/BP_Banckomat_Auto1.uasset'
+[2019.04.27-09.46.51:106][452]LogFileHelpers: Auto-saving content packages took 0.015
+[2019.04.27-09.47.48:101][821]Cmd: EDIT COPY
+[2019.04.27-09.47.50:122][942]Cmd: EDIT PASTE
+[2019.04.27-09.48.01:792][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-09.48.19:546][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-09.49.34:768][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-09.49.34:818][ 85]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.27-09.49.34:846][ 85]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.27-09.49.34:846][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.27-09.49.34:848][ 85]PIE: New page: PIE session: ThirdPersonExampleMap (27 апр. 2019 г., 15:49:34)
+[2019.04.27-09.49.34:862][ 85]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.04.27-09.49.34:898][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035689s)
+[2019.04.27-09.49.34:899][ 85]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.27-09.49.34:899][ 85]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2019.04.27-09.49.34:899][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.037485s)
+[2019.04.27-09.49.34:949][ 85]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.27-09.49.34:963][ 85]LogInit: FAudioDevice initialized.
+[2019.04.27-09.49.35:039][ 85]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.27-09.49.35:057][ 85]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.04.27-12.49.35
+[2019.04.27-09.49.35:057][ 85]LogWorld: Bringing up level for play took: 0.003176
+[2019.04.27-09.49.35:087][ 85]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.04.27-09.49.35:088][ 85]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,217
+[2019.04.27-09.49.35:088][ 85]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.27-09.55.27:805][ 56]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.27-09.55.27:805][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.27-09.55.27:847][ 56]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.27-09.55.27:848][ 56]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.27-09.55.27:894][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.27-09.55.27:964][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.04.27-09.56.52:890][ 45]Cmd: DELETE
+[2019.04.27-09.56.52:890][ 45]Cmd: ACTOR DELETE
+[2019.04.27-09.56.52:920][ 45]LogEditorActor: Deleted Actor: Brush
+[2019.04.27-09.56.52:985][ 45]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2019.04.27-10.02.44:236][947]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-10.02.44:922][947]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/ThirdPersonExampleMap_Auto2C761CEE9461E3B2F7A8769BBC0E00094.tmp' to 'G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2019.04.27-10.02.44:925][947]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.674
+[2019.04.27-10.02.44:925][947]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.674
+[2019.04.27-10.06.36:921][332]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-10.06.43:804][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.06.54:369][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.06.56:052][409]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.04.27-10.07.07:309][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-10.10.06:105][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.10.21:293][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.04.27-10.10.22:362][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.04.27-10.10.23:034][511]Cmd: SELECT NONE
+[2019.04.27-10.12.30:335][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.12.34:966][306]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-10.12.41:912][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.13.06:268][648]LogSlate: Window 'Select Path' being destroyed
+[2019.04.27-10.13.06:287][648]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-10.13.06:418][648]LogStaticMesh: Building static mesh SM_Bankomat...
+[2019.04.27-10.13.06:454][648]LogStaticMesh: Built static mesh [0.04s] /Game/Dima/SM_Bankomat.SM_Bankomat
+[2019.04.27-10.13.06:460][648]LogActorFactory: Actor Factory created SM_Bankomat
+[2019.04.27-10.13.06:500][648]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush4' is marked pending kill and cannot be converted
+[2019.04.27-10.13.06:500][648]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush' is marked pending kill and cannot be converted
+[2019.04.27-10.13.06:500][648]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush3' is marked pending kill and cannot be converted
+[2019.04.27-10.13.06:500][648]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush2_6' is marked pending kill and cannot be converted
+[2019.04.27-10.13.06:500][648]EditorErrors: New page: Actor Reattachment
+[2019.04.27-10.13.33:396][816]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-10.13.33:851][816]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/ThirdPersonExampleMap_Auto37CAEB2D44562D1FD003858A0CB8F7A1C.tmp' to 'G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2019.04.27-10.13.33:860][816]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.437
+[2019.04.27-10.13.33:860][816]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.437
+[2019.04.27-10.13.33:862][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dima/SM_Bankomat] ([1] browsable assets)...
+[2019.04.27-10.13.33:915][816]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Dima/SM_Bankomat.SM_Bankomat]
+[2019.04.27-10.13.33:915][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dima/SM_Bankomat]
+[2019.04.27-10.13.33:915][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dima/SM_Bankomat" FILE="G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/Dima/SM_Bankomat_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.04.27-10.13.33:956][816]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/SM_Bankomat_Auto38AB3331247A1FFD04F7D20852B2C71E0.tmp' to 'G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/Dima/SM_Bankomat_Auto3.uasset'
+[2019.04.27-10.13.33:957][816]LogFileHelpers: Auto-saving content packages took 0.095
+[2019.04.27-10.13.42:423][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.14.13:130][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dima/SM_ATM" FILE="G:/Хакатон/Kvest/Kvest/Content/Dima/SM_ATM.uasset" SILENT=true
+[2019.04.27-10.14.13:151][598]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/SM_ATM65B2909A46BB83E35916FC9AF41744CB.tmp' to 'G:/Хакатон/Kvest/Kvest/Content/Dima/SM_ATM.uasset'
+[2019.04.27-10.14.20:998][ 44]LogMetaData: Removing '/Game/Dima/BP_ATM.BP_ATM:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Dima/BP_Banckomat.PackageMetaData'
+[2019.04.27-10.14.20:998][ 44]LogMetaData: Removing '/Game/Dima/BP_ATM.SKEL_BP_ATM_C' ref from Metadata '/Game/Dima/BP_Banckomat.PackageMetaData'
+[2019.04.27-10.14.20:998][ 44]LogMetaData: Removing '/Game/Dima/BP_ATM.BP_ATM_C' ref from Metadata '/Game/Dima/BP_Banckomat.PackageMetaData'
+[2019.04.27-10.14.20:998][ 44]LogMetaData: Removing '/Game/Dima/BP_ATM.BP_ATM:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Dima/BP_Banckomat.PackageMetaData'
+[2019.04.27-10.14.20:998][ 44]LogMetaData: Removing '/Game/Dima/BP_ATM.BP_ATM:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Dima/BP_Banckomat.PackageMetaData'
+[2019.04.27-10.14.20:998][ 44]LogMetaData: Removing '/Game/Dima/BP_ATM.BP_ATM:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Dima/BP_Banckomat.PackageMetaData'
+[2019.04.27-10.14.21:016][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dima/BP_ATM" FILE="G:/Хакатон/Kvest/Kvest/Content/Dima/BP_ATM.uasset" SILENT=true
+[2019.04.27-10.14.21:030][ 44]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/BP_ATMC51EDE07463037D4658CF7B731B65079.tmp' to 'G:/Хакатон/Kvest/Kvest/Content/Dima/BP_ATM.uasset'
+[2019.04.27-10.15.00:731][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.15.00:803][826]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-10.15.03:888][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bankomat)
+[2019.04.27-10.15.04:542][120]Cmd: DELETE
+[2019.04.27-10.15.04:542][120]Cmd: ACTOR DELETE
+[2019.04.27-10.15.04:546][120]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.04.27-10.15.04:588][120]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2019.04.27-10.15.05:600][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.15.09:893][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.15.23:329][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.15.23:385][908]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-10.15.25:307][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.15.33:535][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.15.59:765][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.16.08:509][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.16.17:016][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.16.17:063][962]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-10.16.24:301][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.16.26:777][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.16.26:842][765]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-10.16.30:782][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.16.30:857][ 87]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-10.16.39:770][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.16.40:706][856]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-10.16.40:736][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dima/BP_ATM" FILE="G:/Хакатон/Kvest/Kvest/Content/Dima/BP_ATM.uasset" SILENT=true
+[2019.04.27-10.16.40:769][856]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/BP_ATM6BD83ACC4DE66529B3F4E88A41AAE8E7.tmp' to 'G:/Хакатон/Kvest/Kvest/Content/Dima/BP_ATM.uasset'
+[2019.04.27-10.16.41:578][940]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-10.17.05:727][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.17.05:789][459]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-10.17.30:117][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.17.49:931][300]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-10.17.51:417][436]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-10.18.37:426][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.18.37:483][ 39]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-10.18.40:541][259]LogEditorViewport: Clicking on Actor (LMB): BP_ATM_C (BP_ATM)
+[2019.04.27-10.18.41:236][299]LogEditorViewport: Clicking on Actor (LMB): BP_ATM_C (BP_ATM)
+[2019.04.27-10.18.41:611][327]LogEditorViewport: Clicking on Actor (LMB): BP_ATM_C (BP_ATM)
+[2019.04.27-10.18.42:166][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.18.57:735][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.19.19:688][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.19.31:236][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.19.31:293][845]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-10.19.33:236][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.19.35:635][180]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.27-10.19.35:651][180]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.27-10.19.35:651][180]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.27-10.19.35:651][180]PIE: New page: PIE session: ThirdPersonExampleMap (27 апр. 2019 г., 16:19:35)
+[2019.04.27-10.19.35:651][180]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.04.27-10.19.35:674][180]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022067s)
+[2019.04.27-10.19.35:675][180]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.27-10.19.35:675][180]LogPlayLevel: PIE: World Init took: (0.001516s)
+[2019.04.27-10.19.35:675][180]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023911s)
+[2019.04.27-10.19.35:721][180]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.27-10.19.35:735][180]LogInit: FAudioDevice initialized.
+[2019.04.27-10.19.35:777][180]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.27-10.19.35:784][180]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.04.27-13.19.35
+[2019.04.27-10.19.35:785][180]LogWorld: Bringing up level for play took: 0.006300
+[2019.04.27-10.19.35:801][180]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,93
+[2019.04.27-10.19.35:801][180]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.27-10.19.46:041][192]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.27-10.19.46:041][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.27-10.19.46:086][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.27-10.19.46:086][192]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.27-10.19.46:151][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.27-10.19.46:179][193]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.04.27-10.19.47:157][277]LogEditorViewport: Clicking on Actor (LMB): BP_ATM_C (BP_ATM)
+[2019.04.27-10.19.49:573][476]LogEditorViewport: Clicking on Actor (LMB): BP_ATM_C (BP_ATM)
+[2019.04.27-10.19.54:678][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.19.54:988][923]LogRenderer: Reallocating scene render targets to support 1356x632 Format 10 NumSamples 1 (Frame:116792).
+[2019.04.27-10.19.57:823][ 88]LogSlate: Window 'Viewport 1' being destroyed
+[2019.04.27-10.19.57:826][ 88]LogSlate: Window 'Viewport 1' being destroyed
+[2019.04.27-10.19.58:551][138]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.27-10.19.58:561][138]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.27-10.19.58:561][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.27-10.19.58:561][138]PIE: New page: PIE session: ThirdPersonExampleMap (27 апр. 2019 г., 16:19:58)
+[2019.04.27-10.19.58:561][138]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.04.27-10.19.58:583][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021528s)
+[2019.04.27-10.19.58:583][138]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.27-10.19.58:584][138]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2019.04.27-10.19.58:584][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022686s)
+[2019.04.27-10.19.58:635][138]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.27-10.19.58:647][138]LogInit: FAudioDevice initialized.
+[2019.04.27-10.19.58:653][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.27-10.19.58:729][138]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.27-10.19.58:732][138]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.04.27-13.19.58
+[2019.04.27-10.19.58:732][138]LogWorld: Bringing up level for play took: 0.002111
+[2019.04.27-10.19.58:747][138]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,124
+[2019.04.27-10.19.58:747][138]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.27-10.20.22:991][846]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.27-10.20.22:992][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.27-10.20.23:011][846]LogSlate: Window 'Kvest Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.27-10.20.23:048][846]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.27-10.20.23:048][846]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.27-10.20.23:131][847]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.04.27-10.21.31:344][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.21.31:423][705]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-10.21.36:779][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.21.38:045][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dima/BP_ATM" FILE="G:/Хакатон/Kvest/Kvest/Content/Dima/BP_ATM.uasset" SILENT=true
+[2019.04.27-10.21.38:075][289]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/BP_ATM2526B2C6404AD41D9B0390B9BBB88122.tmp' to 'G:/Хакатон/Kvest/Kvest/Content/Dima/BP_ATM.uasset'
+[2019.04.27-10.22.31:781][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.22.47:899][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.27-10.22.47:909][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.27-10.22.47:920][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.27-10.22.47:931][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.27-10.22.49:835][ 14]LogSlate: Window 'Viewport 1' being destroyed
+[2019.04.27-10.22.53:521][242]LogSlate: Window 'Viewport 1' being destroyed
+[2019.04.27-10.22.58:198][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.22.59:759][783]LogRenderer: Reallocating scene render targets to support 1356x668 Format 10 NumSamples 1 (Frame:117867).
+[2019.04.27-10.23.08:183][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.23.32:031][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.23.36:956][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.24.01:555][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.24.02:115][933]LogActorFactory: Actor Factory created Cylinder
+[2019.04.27-10.24.02:500][967]LogActorFactory: Actor Factory created Cylinder
+[2019.04.27-10.24.08:045][444]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.04.27-10.24.08:883][518]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-10.24.09:197][518]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/ThirdPersonExampleMap_Auto419E8EDB84F0F4C9001B418BB33A28005.tmp' to 'G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2019.04.27-10.24.09:200][518]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.292
+[2019.04.27-10.24.09:200][518]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.292
+[2019.04.27-10.24.22:872][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.25.06:982][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.25.09:679][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.25.10:955][446]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.04.27-10.25.16:349][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.25.19:168][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2019.04.27-10.25.23:041][457]LogEditorViewport: Clicking on Actor (LMB): BP_ATM_C (BP_ATM)
+[2019.04.27-10.25.23:670][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2019.04.27-10.25.25:349][615]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-10.25.28:971][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.25.39:498][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2019.04.27-10.25.40:631][903]Cmd: DELETE
+[2019.04.27-10.25.40:631][903]Cmd: ACTOR DELETE
+[2019.04.27-10.25.40:640][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.04.27-10.25.40:681][903]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2019.04.27-10.25.41:571][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.04.27-10.26.03:800][881]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_92' invalid (594 verts, 0 indices).
+[2019.04.27-10.26.03:800][881]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_92.BodySetup_0 when we are unable to.
+[2019.04.27-10.26.04:276][922]Cmd: TRANSACTION UNDO
+[2019.04.27-10.26.04:276][922]LogEditorTransaction: Undo Scale Actors
+[2019.04.27-10.26.12:540][659]Cmd: TRANSACTION UNDO
+[2019.04.27-10.26.12:540][659]LogEditorTransaction: Undo Scale Actors
+[2019.04.27-10.26.13:519][718]Cmd: TRANSACTION UNDO
+[2019.04.27-10.26.13:519][718]LogEditorTransaction: Undo Scale Actors
+[2019.04.27-10.26.33:132][424]Cmd: TRANSACTION UNDO
+[2019.04.27-10.26.33:132][424]LogEditorTransaction: Undo Scale Actors
+[2019.04.27-10.26.33:887][466]Cmd: TRANSACTION UNDO
+[2019.04.27-10.26.33:887][466]LogEditorTransaction: Undo Scale Actors
+[2019.04.27-10.26.34:253][489]Cmd: TRANSACTION UNDO
+[2019.04.27-10.26.34:253][489]LogEditorTransaction: Undo Scale Actors
+[2019.04.27-10.26.34:696][520]Cmd: TRANSACTION UNDO
+[2019.04.27-10.26.34:696][520]LogEditorTransaction: Undo Scale Actors
+[2019.04.27-10.26.35:036][545]Cmd: TRANSACTION UNDO
+[2019.04.27-10.26.35:036][545]LogEditorTransaction: Undo Scale Actors
+[2019.04.27-10.26.37:856][776]LogEditorViewport: Clicking on Actor (context menu): BP_ATM_C (BP_ATM)
+[2019.04.27-10.26.37:905][776]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-10.26.47:041][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.27.28:670][343]Cmd: EDIT COPY
+[2019.04.27-10.27.28:913][363]Cmd: EDIT PASTE
+[2019.04.27-10.27.54:954][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.27.55:616][656]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.04.27-10.28.18:824][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.28.22:095][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.28.30:341][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2019.04.27-10.29.26:028][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.29.59:721][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.30.14:776][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.31.20:205][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.31.21:778][972]Cmd: MODE ROTGRID=0
+[2019.04.27-10.31.22:598][ 48]Cmd: MODE ROTGRID=1
+[2019.04.27-10.31.34:089][ 55]Cmd: EDIT COPY
+[2019.04.27-10.31.34:512][ 86]Cmd: EDIT PASTE
+[2019.04.27-10.31.54:930][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.32.10:929][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.32.19:562][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.32.31:969][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.32.39:123][758]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-10.32.57:085][363]Cmd: TRANSACTION UNDO
+[2019.04.27-10.32.57:085][363]LogEditorTransaction: Undo Select Brush Surface
+[2019.04.27-10.32.58:188][454]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-10.34.09:250][958]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-10.34.09:611][958]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/ThirdPersonExampleMap_Auto515C330E14C5A2D5694ADB498A7101320.tmp' to 'G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2019.04.27-10.34.09:905][958]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.641
+[2019.04.27-10.34.09:905][958]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.641
+[2019.04.27-10.34.57:120][286]Cmd: SELECT NONE
+[2019.04.27-10.36.17:942][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.36.22:644][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.36.26:468][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2019.04.27-10.36.26:791][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.04.27-10.36.33:360][807]Cmd: TRANSACTION UNDO
+[2019.04.27-10.36.33:360][807]LogEditorTransaction: Undo Move Actors
+[2019.04.27-10.37.22:211][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.37.52:109][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.37.59:975][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-10.39.30:349][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.04.27-10.39.49:439][322]Cmd: TRANSACTION UNDO
+[2019.04.27-10.39.49:439][322]LogEditorTransaction: Undo Scale Actors
+[2019.04.27-10.39.50:576][416]Cmd: TRANSACTION UNDO
+[2019.04.27-10.39.50:576][416]LogEditorTransaction: Undo Scale Actors
+[2019.04.27-10.44.09:945][429]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-10.44.10:705][429]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/ThirdPersonExampleMap_Auto6DC9251E74B04118C50F37CBFBA5508D1.tmp' to 'G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2019.04.27-10.44.10:708][429]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.747
+[2019.04.27-10.44.10:708][429]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.747
+[2019.04.27-10.56.15:059][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.04.27-10.57.00:573][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.04.27-10.57.26:092][513]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-10.57.26:461][513]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/ThirdPersonExampleMap_Auto757EE34E046EBA3328AFD19BA9DB336C1.tmp' to 'G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap'
+[2019.04.27-10.57.26:465][513]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.356
+[2019.04.27-10.57.26:465][513]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.356
+[2019.04.27-10.57.44:851][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.04.27-10.57.46:217][635]LogEditorViewport: Clicking on Actor (LMB): BP_ATM_C (BP_ATM)
+[2019.04.27-10.57.49:820][838]LogEditorViewport: Clicking on Actor (LMB): BP_ATM_C (BP_ATM)
+[2019.04.27-10.57.50:309][864]LogEditorViewport: Clicking on Actor (LMB): BP_ATM_C (BP_ATM)
+[2019.04.27-10.58.10:261][988]Cmd: TRANSACTION UNDO
+[2019.04.27-10.58.10:261][988]LogEditorTransaction: Undo Move Actors
+[2019.04.27-10.58.47:853][147]Cmd: TRANSACTION UNDO
+[2019.04.27-10.58.47:853][147]LogEditorTransaction: Undo Move Actors
+[2019.04.27-10.58.55:995][596]Cmd: TRANSACTION UNDO
+[2019.04.27-10.58.55:995][596]LogEditorTransaction: Undo Move Actors
+[2019.04.27-10.59.19:475][930]Cmd: TRANSACTION UNDO
+[2019.04.27-10.59.19:475][930]LogEditorTransaction: Undo Move Actors
+[2019.04.27-10.59.27:947][402]Cmd: TRANSACTION UNDO
+[2019.04.27-10.59.27:948][402]LogEditorTransaction: Undo Rotate Actors
+[2019.04.27-10.59.28:940][457]Cmd: TRANSACTION UNDO
+[2019.04.27-10.59.28:940][457]LogEditorTransaction: Undo Rotate Actors
+[2019.04.27-10.59.29:461][483]Cmd: TRANSACTION UNDO
+[2019.04.27-10.59.29:461][483]LogEditorTransaction: Undo Rotate Actors
+[2019.04.27-11.00.31:716][108]Cmd: TRANSACTION UNDO
+[2019.04.27-11.00.31:716][108]LogEditorTransaction: Undo Move Actors
+[2019.04.27-11.00.34:793][271]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-11.00.35:057][285]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-11.00.40:728][621]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2019.04.27-11.00.42:483][722]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.04.27-11.00.43:860][803]Cmd: TRANSACTION UNDO
+[2019.04.27-11.00.43:860][803]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.27-11.00.46:169][939]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush)
+[2019.04.27-11.00.48:108][ 53]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Cylinder Brush2)
+[2019.04.27-11.00.49:753][148]Cmd: TRANSACTION UNDO
+[2019.04.27-11.00.49:753][148]LogEditorTransaction: Undo Move Actors
+[2019.04.27-11.00.53:645][377]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Cylinder Brush)
+[2019.04.27-11.01.04:558][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-11.01.54:157][883]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-11.02.13:023][  6]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-11.02.34:105][252]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-11.02.37:766][468]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2019.04.27-11.02.40:875][652]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.04.27-11.02.43:201][788]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Cylinder Brush2)
+[2019.04.27-11.02.47:048][ 13]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush)
+[2019.04.27-11.02.49:172][137]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Cylinder Brush)
+[2019.04.27-11.02.55:618][519]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-11.03.16:032][691]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-11.03.38:167][901]Cmd: TRANSACTION UNDO
+[2019.04.27-11.03.38:167][901]LogEditorTransaction: Undo Move Actors
+[2019.04.27-11.03.41:635][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-11.03.45:385][317]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush2)
+[2019.04.27-11.03.48:651][509]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-11.03.50:387][611]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-11.03.57:276][997]Cmd: TRANSACTION UNDO
+[2019.04.27-11.03.57:276][997]LogEditorTransaction: Undo Move Actors
+[2019.04.27-11.04.06:554][512]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-11.04.33:525][988]LogSlate: Window 'Select Path' being destroyed
+[2019.04.27-11.04.33:531][988]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-11.04.33:634][988]LogStaticMesh: Building static mesh SM_Door...
+[2019.04.27-11.04.33:667][988]LogStaticMesh: Built static mesh [0.03s] /Game/Dima/SM_Door.SM_Door
+[2019.04.27-11.04.33:675][988]LogActorFactory: Actor Factory created SM_Door
+[2019.04.27-11.04.33:709][988]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush' is marked pending kill and cannot be converted
+[2019.04.27-11.04.33:709][988]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.CylinderBrush2' is marked pending kill and cannot be converted
+[2019.04.27-11.04.33:709][988]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.CylinderBrush' is marked pending kill and cannot be converted
+[2019.04.27-11.04.33:709][988]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush2' is marked pending kill and cannot be converted
+[2019.04.27-11.04.33:709][988]EditorErrors: New page: Actor Reattachment
+[2019.04.27-11.04.45:020][627]Cmd: TRANSACTION UNDO
+[2019.04.27-11.04.45:020][627]LogEditorTransaction: Undo Rotate Actors
+[2019.04.27-11.04.45:631][663]Cmd: TRANSACTION UNDO
+[2019.04.27-11.04.45:631][663]LogEditorTransaction: Undo Rotate Actors
+[2019.04.27-11.04.56:274][283]Cmd: TRANSACTION UNDO
+[2019.04.27-11.04.56:274][283]LogEditorTransaction: Undo Move Actors
+[2019.04.27-11.05.08:477][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-11.06.04:096][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-11.06.09:910][540]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Dima/SM_ATM.SM_ATM
+[2019.04.27-11.06.10:740][541]LogRenderer: Reallocating scene render targets to support 1356x708 Format 10 NumSamples 1 (Frame:1).
+[2019.04.27-11.06.46:232][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-11.07.19:632][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-11.07.26:212][879]LogEditorViewport: Clicking on Actor (LMB): BP_ATM_C (BP_ATM)
+[2019.04.27-11.07.29:339][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2019.04.27-11.07.32:900][197]Cmd: DELETE
+[2019.04.27-11.07.32:900][197]Cmd: ACTOR DELETE
+[2019.04.27-11.07.32:913][197]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.04.27-11.07.32:963][197]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2019.04.27-11.07.33:749][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-11.07.44:428][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-11.08.20:810][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-11.08.55:650][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-11.09.44:813][674]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-11.09.45:532][674]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/ThirdPersonExampleMap_Auto8705CDC4B4A2E1AFC7DEDBABDCD80BEB7.tmp' to 'G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2019.04.27-11.09.45:535][674]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.688
+[2019.04.27-11.09.45:535][674]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.688
+[2019.04.27-11.09.45:538][674]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dima/BP_ATM] ([1] browsable assets)...
+[2019.04.27-11.09.45:589][674]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dima/BP_ATM.BP_ATM]
+[2019.04.27-11.09.45:589][674]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dima/BP_ATM]
+[2019.04.27-11.09.45:589][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dima/BP_ATM" FILE="G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/Dima/BP_ATM_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2019.04.27-11.09.45:630][674]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/BP_ATM_Auto8B55403744408514B61B130B219AB32CC.tmp' to 'G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/Dima/BP_ATM_Auto8.uasset'
+[2019.04.27-11.09.45:631][674]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dima/SM_Door] ([1] browsable assets)...
+[2019.04.27-11.09.45:679][674]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Dima/SM_Door.SM_Door]
+[2019.04.27-11.09.45:679][674]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dima/SM_Door]
+[2019.04.27-11.09.45:679][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dima/SM_Door" FILE="G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/Dima/SM_Door_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2019.04.27-11.09.45:700][674]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/SM_Door_Auto841BA0CB54FD5465D1217A8A592EE8D6F.tmp' to 'G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/Dima/SM_Door_Auto8.uasset'
+[2019.04.27-11.09.45:701][674]LogFileHelpers: Auto-saving content packages took 0.164
+[2019.04.27-11.45.07:791][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-12.40.21:449][395]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:455][395]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.21:795][397]LogHttp: Warning: 0000017623A7FC40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.04.27-12.40.21:795][397]LogHttp: Warning: 0000017623A7FC40: libcurl info message cache 0 (Connection 56 seems to be dead!)
+[2019.04.27-12.40.21:795][397]LogHttp: Warning: 0000017623A7FC40: libcurl info message cache 1 (Closing connection 56)
+[2019.04.27-12.40.21:795][397]LogHttp: Warning: 0000017623A7FC40: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.04.27-12.40.21:795][397]LogHttp: Warning: 0000017623A7FC40: libcurl info message cache 3 (Closing connection 57)
+[2019.04.27-12.40.22:127][398]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFA22C0C6-4791-2A3E-1BAE-0CBDED726491%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=0640114a428a2f03aea674918db94db3%7Ca63b9b81558045058186c690e6f96668%7Cb5a8b499-25e8-402c-889e-f4a6b74293b5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.27-12.40.44:204][925]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-12.40.47:157][ 85]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (25.703 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.27-12.40.49:260][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-12.41.47:050][665]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-12.42.03:351][573]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:352][573]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:352][573]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_ATM_2.Cylinder' 
+[2019.04.27-12.42.03:368][574]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:368][574]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:385][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:385][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:401][576]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:402][576]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:418][577]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:418][577]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:439][578]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:439][578]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:455][579]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:455][579]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:471][580]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:471][580]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:487][581]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:488][581]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:504][582]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:504][582]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:521][583]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:521][583]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:537][584]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:538][584]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:554][585]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:555][585]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:571][586]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:571][586]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:588][587]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:588][587]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:604][588]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:605][588]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:621][589]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:621][589]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:642][590]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:643][590]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:662][591]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:663][591]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:678][592]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:679][592]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:695][593]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:696][593]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:712][594]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:712][594]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:728][595]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:729][595]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:745][596]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:746][596]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:762][597]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:762][597]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:779][598]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:779][598]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:795][599]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:796][599]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:812][600]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:812][600]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:829][601]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:829][601]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:845][602]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:845][602]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:862][603]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:862][603]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:879][604]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:879][604]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:895][605]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:895][605]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:911][606]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:912][606]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:928][607]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:928][607]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:945][608]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:946][608]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:962][609]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:962][609]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:979][610]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:979][610]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:995][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.03:996][611]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:012][612]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:012][612]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:029][613]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:029][613]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:045][614]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:046][614]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:062][615]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:062][615]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:078][616]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:079][616]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:095][617]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:096][617]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:112][618]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:112][618]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:129][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:129][619]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:145][620]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:145][620]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:162][621]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:162][621]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:179][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:179][622]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:195][623]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:195][623]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:215][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:216][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:230][625]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:230][625]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:246][626]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:246][626]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:263][627]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:263][627]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:280][628]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:280][628]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:299][629]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:300][629]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:314][630]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:315][630]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:334][631]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:334][631]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:350][632]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:351][632]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:366][633]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:367][633]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:383][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:383][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:400][635]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:400][635]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:416][636]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:416][636]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:433][637]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:433][637]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:449][638]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:450][638]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:466][639]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:466][639]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:503][641]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:505][641]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:505][641]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_ATM_2.Cylinder' 
+[2019.04.27-12.42.04:521][642]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:522][642]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:536][643]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:537][643]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:554][644]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:554][644]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:570][645]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:570][645]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:587][646]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.04:587][646]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_0:PersistentLevel.BP_Banckomat_C_0.Cylinder' 
+[2019.04.27-12.42.32:318][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-12.44.23:433][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-12.44.23:483][512]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-12.50.00:480][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-12.50.27:596][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.27-12.50.28:344][ 96]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/ThirdPersonExampleMap_Auto9DB47CDF24417FE54B23178B366C663B7.tmp' to 'G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto9.umap'
+[2019.04.27-12.50.28:347][ 96]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.729
+[2019.04.27-12.50.28:347][ 96]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.729
+[2019.04.27-12.50.28:349][ 96]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dima/BP_ATM] ([1] browsable assets)...
+[2019.04.27-12.50.28:404][ 96]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dima/BP_ATM.BP_ATM]
+[2019.04.27-12.50.28:404][ 96]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dima/BP_ATM]
+[2019.04.27-12.50.28:404][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dima/BP_ATM" FILE="G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/Dima/BP_ATM_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2019.04.27-12.50.28:444][ 96]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/BP_ATM_Auto999E89443496FB37E6C9A828F39441F64.tmp' to 'G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/Dima/BP_ATM_Auto9.uasset'
+[2019.04.27-12.50.28:445][ 96]LogFileHelpers: Auto-saving content packages took 0.096
+[2019.04.27-13.11.58:912][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-13.11.58:926][937]LogSlate: Took 0.010842 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.27-13.12.25:153][430]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.27-13.12.25:153][430]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.27-13.12.40:676][359]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.27-13.12.40:676][359]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.27-13.13.02:110][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-13.13.02:210][549]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-13.13.07:529][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-13.13.13:025][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-13.13.16:288][329]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-13.13.57:057][729]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-13.14.20:735][563]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Dima/W_OpenDoor.W_OpenDoor
+[2019.04.27-13.15.08:613][367]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/ThirdPersonExampleMap_Auto0C86E6D624CFDAC63E24F6AA21B3B6721.tmp' to 'G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto0.umap'
+[2019.04.27-13.15.08:620][367]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.342
+[2019.04.27-13.15.08:620][367]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.342
+[2019.04.27-13.15.08:622][367]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dima/BP_ATM] ([1] browsable assets)...
+[2019.04.27-13.15.08:672][367]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dima/BP_ATM.BP_ATM]
+[2019.04.27-13.15.08:672][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dima/BP_ATM]
+[2019.04.27-13.15.08:672][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dima/BP_ATM" FILE="G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/Dima/BP_ATM_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2019.04.27-13.15.08:725][367]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/BP_ATM_Auto03B3217D44C325AA2CD347E9A3B8D48C6.tmp' to 'G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/Dima/BP_ATM_Auto0.uasset'
+[2019.04.27-13.15.08:727][367]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dima/W_OpenDoor] ([1] browsable assets)...
+[2019.04.27-13.15.08:727][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dima/W_OpenDoor]
+[2019.04.27-13.15.08:727][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dima/W_OpenDoor" FILE="G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/Dima/W_OpenDoor_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2019.04.27-13.15.08:912][367]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/W_OpenDoor_Auto03C067EAA47B72220CB8B2A85CD2E04A6.tmp' to 'G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/Dima/W_OpenDoor_Auto0.uasset'
+[2019.04.27-13.15.08:912][367]LogFileHelpers: Auto-saving content packages took 0.291
+[2019.04.27-13.18.44:263][232]Cmd: TRANSACTION UNDO
+[2019.04.27-13.18.44:263][232]LogEditorTransaction: Undo Edit Bottom
+[2019.04.27-13.18.49:263][511]Cmd: TRANSACTION UNDO
+[2019.04.27-13.18.49:263][511]LogEditorTransaction: Undo Edit Top
+[2019.04.27-13.21.01:967][441]BlueprintLog: New page: Compile W_OpenDoor
+[2019.04.27-13.21.08:171][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-13.21.17:218][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dima/W_OpenDoor" FILE="G:/Хакатон/Kvest/Kvest/Content/Dima/W_OpenDoor.uasset" SILENT=true
+[2019.04.27-13.21.17:233][266]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/W_OpenDoor7F9271664FDD91B897E313AE58AB3902.tmp' to 'G:/Хакатон/Kvest/Kvest/Content/Dima/W_OpenDoor.uasset'
+[2019.04.27-13.21.52:022][285]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.04.27-13.22.05:628][ 91]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-13.22.31:266][573]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-13.22.31:274][573]LogBlueprint: Error: [Compiler BP_ATM] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2019.04.27-13.22.31:526][573]LogBlueprint: Warning: [Compiler BP_ATM] [3553,94] Compile of BP_ATM failed. 1 Fatal Issue(s) 0 Warning(s) [in 260 ms] (/Game/Dima/BP_ATM.BP_ATM)
+[2019.04.27-13.22.33:871][707]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-13.23.23:083][597]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-13.23.25:257][700]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.27-13.23.25:299][700]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.27-13.23.25:300][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.27-13.23.25:300][700]PIE: New page: PIE session: ThirdPersonExampleMap (27 апр. 2019 г., 19:23:25)
+[2019.04.27-13.23.25:300][700]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.04.27-13.23.25:338][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037734s)
+[2019.04.27-13.23.25:339][700]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.27-13.23.25:340][700]LogPlayLevel: PIE: World Init took: (0.001267s)
+[2019.04.27-13.23.25:340][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.039219s)
+[2019.04.27-13.23.25:390][700]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.27-13.23.25:406][700]LogInit: FAudioDevice initialized.
+[2019.04.27-13.23.25:449][700]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.27-13.23.25:455][700]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.04.27-16.23.25
+[2019.04.27-13.23.25:456][700]LogWorld: Bringing up level for play took: 0.006088
+[2019.04.27-13.23.25:473][700]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,607
+[2019.04.27-13.23.25:473][700]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.27-13.23.31:247][ 41]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.27-13.23.31:248][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.27-13.23.31:291][ 41]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.27-13.23.31:292][ 41]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.27-13.23.31:338][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.27-13.23.31:412][ 42]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.04.27-13.23.32:162][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-13.25.04:438][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-13.25.18:347][217]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-13.25.20:207][300]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.27-13.25.20:235][300]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.27-13.25.20:235][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.27-13.25.20:235][300]PIE: New page: PIE session: ThirdPersonExampleMap (27 апр. 2019 г., 19:25:20)
+[2019.04.27-13.25.20:235][300]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.04.27-13.25.20:256][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020391s)
+[2019.04.27-13.25.20:257][300]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.27-13.25.20:257][300]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2019.04.27-13.25.20:257][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021661s)
+[2019.04.27-13.25.20:311][300]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.27-13.25.20:325][300]LogInit: FAudioDevice initialized.
+[2019.04.27-13.25.20:368][300]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.27-13.25.20:373][300]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.04.27-16.25.20
+[2019.04.27-13.25.20:374][300]LogWorld: Bringing up level for play took: 0.004986
+[2019.04.27-13.25.20:389][300]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,477
+[2019.04.27-13.25.20:390][300]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.27-13.25.28:254][767]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.27-13.25.28:255][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.27-13.25.28:294][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.27-13.25.28:294][767]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.04.27-13.25.28:344][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.27-13.25.28:410][768]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.04.27-13.25.29:325][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-13.25.41:700][507]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-13.26.31:871][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-13.26.36:045][698]LogRenderer: Reallocating scene render targets to support 1356x884 Format 10 NumSamples 1 (Frame:300347).
+[2019.04.27-13.26.53:392][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-13.26.53:505][589]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-13.27.01:459][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-13.27.01:557][996]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-13.27.08:913][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-13.28.03:185][474]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-13.28.47:820][694]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/ThirdPersonExampleMap_Auto18FD707F84ED9A47EBFC152A96788BC00.tmp' to 'G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.04.27-13.28.47:824][694]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.335
+[2019.04.27-13.28.47:824][694]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.335
+[2019.04.27-13.28.47:826][694]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dima/BP_ATM] ([1] browsable assets)...
+[2019.04.27-13.28.47:879][694]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dima/BP_ATM.BP_ATM]
+[2019.04.27-13.28.47:879][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dima/BP_ATM]
+[2019.04.27-13.28.47:879][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dima/BP_ATM" FILE="G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/Dima/BP_ATM_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.04.27-13.28.48:086][694]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/BP_ATM_Auto1F324D4FA4DB2D4CB22D1FEACDDF224D4.tmp' to 'G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/Dima/BP_ATM_Auto1.uasset'
+[2019.04.27-13.28.48:087][694]LogFileHelpers: Auto-saving content packages took 0.261
+[2019.04.27-13.31.49:609][ 52]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-13.32.06:072][  9]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-13.32.23:682][ 35]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-13.35.47:027][136]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-13.36.26:842][499]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-13.37.59:484][941]BlueprintLog: New page: Compile BP_ATM
+[2019.04.27-13.39.22:091][382]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/ThirdPersonExampleMap_Auto28C28D28040AEE26AC14DE496C5C319B3.tmp' to 'G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2019.04.27-13.39.22:097][382]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.444
+[2019.04.27-13.39.22:097][382]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.444
+[2019.04.27-13.39.22:099][382]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Dima/BP_ATM] ([1] browsable assets)...
+[2019.04.27-13.39.22:129][382]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dima/BP_ATM.BP_ATM]
+[2019.04.27-13.39.22:129][382]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dima/BP_ATM]
+[2019.04.27-13.39.22:129][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dima/BP_ATM" FILE="G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/Dima/BP_ATM_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.04.27-13.39.22:194][382]LogSavePackage: Moving 'G:/Хакатон/Kvest/Kvest/Saved/BP_ATM_Auto27720D960488161758F825B895EA1C5B0.tmp' to 'G:/Хакатон/Kvest/Kvest/Saved/Autosaves/Game/Dima/BP_ATM_Auto2.uasset'
+[2019.04.27-13.39.22:195][382]LogFileHelpers: Auto-saving content packages took 0.097
+[2019.04.27-13.40.11:987][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-13.40.18:388][183]LogEditorTransaction: Undo Modify Component(s)
+[2019.04.27-13.40.18:401][183]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.04.27-13.40.19:769][183]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.368 s
+[2019.04.27-13.40.19:769][183]LogOutputDevice: Error: === Handled ensure: ===
+[2019.04.27-13.40.19:769][183]LogOutputDevice: Error: 
+[2019.04.27-13.40.19:769][183]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2105]
+[2019.04.27-13.40.19:769][183]LogOutputDevice: Error: 
+[2019.04.27-13.40.19:769][183]LogOutputDevice: Error: Stack: 
+[2019.04.27-13.40.19:769][183]LogOutputDevice: Error: [Callstack] 0x00007ffabb4a85e8 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.27-13.40.19:769][183]LogOutputDevice: Error: [Callstack] 0x00007ffac152fe32 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ffac155acf6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ffac154140c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ffac15ab427 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ffac15ef72f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ffac158726f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ffab9a81168 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ffac2c0206f UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ffac2c44c8e UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ffac1e06d1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ffac1df4cb8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ffac2bc694c UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ffac2c4697c UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ffac2c39a36 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ffad4f9daa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ffad4f90de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ffad4fa01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ffad4f8ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ffb03a4bc50 USER32.dll!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ffb03a4b5cf USER32.dll!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ffad4fa1746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ff7e5275546 UE4Editor.exe!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ff7e528596c UE4Editor.exe!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ff7e52859ea UE4Editor.exe!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ff7e52948da UE4Editor.exe!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ff7e529659a UE4Editor.exe!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ffb01c12774 KERNEL32.DLL!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: [Callstack] 0x00007ffb043d0d61 ntdll.dll!UnknownFunction []
+[2019.04.27-13.40.19:770][183]LogOutputDevice: Error: 
+[2019.04.27-13.40.19:777][183]LogStats:                SubmitErrorReport -  0.000 s
+[2019.04.27-13.40.20:976][183]LogStats:                    SendNewReport -  1.199 s
+[2019.04.27-13.40.20:976][183]LogStats:             FDebug::EnsureFailed -  2.575 s
+[2019.04.27-13.40.26:076][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-13.40.57:947][331]LogEditorTransaction: Undo Modify Component(s)
+[2019.04.27-13.41.01:027][508]LogEditorTransaction: Undo Modify Component(s)
+[2019.04.27-13.41.06:209][811]LogEditorTransaction: Undo Modify Component(s)
+[2019.04.27-13.41.08:559][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-13.41.11:513][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-13.41.15:818][349]LogEditorTransaction: Undo Modify Component(s)
+[2019.04.27-13.41.18:103][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-13.41.19:759][573]LogEditorTransaction: Undo Modify Component(s)
+[2019.04.27-13.41.25:013][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-13.41.27:392][997]LogEditorTransaction: Undo Modify Component(s)
+[2019.04.27-13.41.32:304][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.27-13.41.47:296][150]LogEditorTransaction: Undo Modify Component(s)
+[2019.04.27-13.41.47:303][150]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.04.27-13.41.47:342][150]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.039 s
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: === Handled ensure: ===
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: 
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: 
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: Stack: 
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffac1589a86 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffac152f9aa UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffab3adfa42 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffab3ae0795 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffab3a8d4c1 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffac2d842ba UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffac2dfb729 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffac2db4a49 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffac2e5c40e UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffac2c69ca1 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffac2c00fd4 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffab9d485c4 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffab9aab94f UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffab9a80419 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffab9e4ce73 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffab9e2ed70 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffab9dd88c4 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffab9e35cda UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffab9a5f09b UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffab9a9186e UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffab9ab2dad UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffac152ffdd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffac155acf6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffac154140c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffac15ab427 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffac15ef72f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffac158726f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffab9a81168 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.27-13.41.47:342][150]LogOutputDevice: Error: [Callstack] 0x00007ffac2c0206f UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.27-13.41.47:343][150]LogOutputDevice: Error: [Callstack] 0x00007ffac2c44c8e UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.27-13.41.47:343][150]LogOutputDevice: Error: [Callstack] 0x00007ffac1e06d1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.27-13.41.47:343][150]LogOutputDevice: Error: [Callstack] 0x00007ffac1df4cb8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.27-13.41.47:343][150]LogOutputDevice: Error: [Callstack] 0x00007ffac2bc694c UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.27-13.41.47:343][150]LogOutputDevice: Error: [Callstack] 0x00007ffac2c4697c UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.27-13.41.47:343][150]LogOutputDevice: Error: [Callstack] 0x00007ffac2c39a36 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.27-13.41.47:343][150]LogOutputDevice: Error: [Callstack] 0x00007ffad4f9daa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.27-13.41.47:343][150]LogOutputDevice: Error: [Callstack] 0x00007ffad4f90de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.27-13.41.47:343][150]LogOutputDevice: Error: [Callstack] 0x00007ffad4fa01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.27-13.41.47:343][150]LogOutputDevice: Error: [Callstack] 0x00007ffad4f8ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.27-13.41.47:343][150]LogOutputDevice: Error: [Callstack] 0x00007ffb03a4bc50 USER32.dll!UnknownFunction []
+[2019.04.27-13.41.47:343][150]LogOutputDevice: Error: [Callstack] 0x00007ffb03a4b5cf USER32.dll!UnknownFunction []
+[2019.04.27-13.41.47:343][150]LogOutputDevice: Error: [Callstack] 0x00007ffad4fa1746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.27-13.41.47:343][150]LogOutputDevice: Error: [Callstack] 0x00007ff7e5275546 UE4Editor.exe!UnknownFunction []
+[2019.04.27-13.41.47:343][150]LogOutputDevice: Error: [Callstack] 0x00007ff7e528596c UE4Editor.exe!UnknownFunction []
+[2019.04.27-13.41.47:343][150]LogOutputDevice: Error: [Callstack] 0x00007ff7e52859ea UE4Editor.exe!UnknownFunction []
+[2019.04.27-13.41.47:343][150]LogOutputDevice: Error: [Callstack] 0x00007ff7e52948da UE4Editor.exe!UnknownFunction []
+[2019.04.27-13.41.47:343][150]LogOutputDevice: Error: [Callstack] 0x00007ff7e529659a UE4Editor.exe!UnknownFunction []
+[2019.04.27-13.41.47:343][150]LogOutputDevice: Error: [Callstack] 0x00007ffb01c12774 KERNEL32.DLL!UnknownFunction []
+[2019.04.27-13.41.47:343][150]LogOutputDevice: Error: [Callstack] 0x00007ffb043d0d61 ntdll.dll!UnknownFunction []
+[2019.04.27-13.41.47:343][150]LogOutputDevice: Error: 
+[2019.04.27-13.41.47:345][150]LogStats:                SubmitErrorReport -  0.000 s
